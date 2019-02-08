@@ -14,4 +14,8 @@
 	server.port=<Application Port>
 	eureka.client.service-url.defaultZone=http://<IP of Eureka Service>:<Port>/eureka/
 	
-	Default port for Eureka Service: 8716	
+	Default port for Eureka Service: 8716
+
+#To check the running service instance
+	URL: http://localhost:8701/service-instances/Eureka-Service
+	Sample used in the application.
